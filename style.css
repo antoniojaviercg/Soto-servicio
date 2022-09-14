@@ -539,7 +539,7 @@ nav ul a{
 
       nav ul a{
         width: 100%;
-        height: 18vh;
+       padding: 7vh 0;
         margin: 0;
         font-size: 1.5rem;
       }
